@@ -24,7 +24,7 @@ A simple Regional Sales Dashboard made in Tableau For the supermarket Sales Data
 ## Screenshots
 
 **Sales Dashboard **
-https://github.com/Shantanu-Dutta-2001/Tableau-projects---Regional-Sales-Dashboard/blob/main/Dashboard%201.png
+(https://github.com/Shantanu-Dutta-2001/Tableau-projects---Regional-Sales-Dashboard/blob/main/Dashboard%201.png)
 
 
 
